@@ -1,0 +1,27 @@
+{
+  "name": "json-server-student-teacher",
+  "version": "1.0.0",
+  "description": "this is json-server moke api for teacher student management app CRUD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoordhuJeyakumar/teacher-student-json-server.git"
+  },
+  "keywords": ["json-server",
+  "mock",
+  "api"],
+  "author": "Loordhu Jeyakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoordhuJeyakumar/teacher-student-json-server/issues"
+  },
+  "homepage": "https://github.com/LoordhuJeyakumar/teacher-student-json-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
