@@ -1,0 +1,22 @@
+{
+  "studentsDetails": [
+    {
+      "fullName": "Jessamine Valdez",
+      "addressDetails": {
+        "address": "14 East Rocky Clarendon Extension",
+        "city": "Tadipatri",
+        "stateName": "Andhra Pradesh",
+        "pincode": "468192"
+      },
+      "parentPhone": "+91 7925726175",
+      "doa": "2023/12/10",
+      "dob": "2015/12/10",
+      "parentEmail": "xojevube@mailinator.com",
+      "parentName": "Stone Haynes",
+      "currentClass": 3,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702229569380,
+      "id": 1
+    }
+  ]
+}
