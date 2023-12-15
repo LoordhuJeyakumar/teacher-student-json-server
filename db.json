@@ -1,4 +1,409 @@
 {
+  "teachersDetails": [
+    {
+      "fullName": "David Johns",
+      "addressDetails": {
+        "address": "570 Hand Parks",
+        "city": "Amalāpuram",
+        "stateName": "Tamil Nadu",
+        "pincode": "713325"
+      },
+      "id": 1,
+      "phone": "0335640279",
+      "doj": "2020-12-10",
+      "dob": "2020-12-10",
+      "email": "David_Johns@hotmail.com",
+      "qualification": "B.Ed",
+      "coreSubject": "Social science",
+      "teachingSubjects": [
+        "English",
+        "Maths"
+      ],
+      "salary": 5501,
+      "isClassTeacher": true,
+      "assignedClass": 2,
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702559689466,
+      "TeacherImage": "/src/assets/images/teacher1.png"
+    },
+    {
+      "fullName": "Hedy Humphrey",
+      "addressDetails": {
+        "address": "69 White Fabien Boulevard",
+        "city": "Malegaon",
+        "stateName": "Haryana",
+        "pincode": "181272"
+      },
+      "phone": "+91 3347362762",
+      "doj": "2023-12-1",
+      "dob": "2013-12-11",
+      "email": "gowud@mailinator.com",
+      "qualification": "MClinSci",
+      "coreSubject": "Physics",
+      "teachingSubjects": [
+        "English",
+        "Science",
+        "Social Science"
+      ],
+      "salary": "18684",
+      "isClassTeacher": true,
+      "assignedClass": 2,
+      "isOnline": false,
+      "TeacherAddTimeStamp": 1702559718234,
+      "TeacherImage": "/src/assets/images/teacher5.png",
+      "id": 2
+    },
+    {
+      "fullName": "Noah Walter",
+      "addressDetails": {
+        "address": "35 Milton Drive",
+        "city": "Chennai",
+        "stateName": "Maharashtra",
+        "pincode": "933286"
+      },
+      "phone": "+91 5428610457",
+      "doj": "2023-12-13",
+      "dob": "1990-12-13",
+      "email": "wucyxar@mailinator.com",
+      "qualification": "MNeuroSci",
+      "coreSubject": "Tamil",
+      "teachingSubjects": [
+        "Science",
+        "biology",
+        "Zoology"
+      ],
+      "salary": "10057",
+      "isClassTeacher": true,
+      "assignedClass": 12,
+      "isOnline": false,
+      "TeacherAddTimeStamp": 1702563137744,
+      "TeacherImage": "/src/assets/images/teacher5.png",
+      "currentClass": 12,
+      "id": 3
+    },
+    {
+      "fullName": "Cole Perry",
+      "addressDetails": {
+        "address": "51 Oak Avenue",
+        "city": "Korba",
+        "stateName": "Andhra Pradesh",
+        "pincode": "590763"
+      },
+      "phone": "+91 8121081058",
+      "doj": "2023-12-9",
+      "dob": "1997-12-2",
+      "email": "belobisof@mailinator.com",
+      "qualification": "MPlan",
+      "coreSubject": "Economics",
+      "teachingSubjects": [
+        "Maths",
+        "Social Science",
+        "Physics"
+      ],
+      "salary": "8473",
+      "isClassTeacher": false,
+      "assignedClass": null,
+      "isOnline": false,
+      "TeacherAddTimeStamp": 1702559726999,
+      "TeacherImage": "/src/assets/images/teacher3.png",
+      "currentClass": 6,
+      "id": 4
+    },
+    {
+      "fullName": "Coby Cantrell",
+      "addressDetails": {
+        "address": "160 East Second Drive",
+        "city": "Gopalpur",
+        "stateName": "Tamil Nadu",
+        "pincode": "464983"
+      },
+      "phone": "+91 5024646075",
+      "doj": "2022-12-21",
+      "dob": "1989-12-13",
+      "email": "dycyhukopo@mailinator.com",
+      "qualification": "BSc",
+      "coreSubject": "Physics",
+      "teachingSubjects": [
+        "Science",
+        "Social Science"
+      ],
+      "salary": "8228",
+      "isClassTeacher": false,
+      "assignedClass": null,
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702559697359,
+      "TeacherImage": "/src/assets/images/teacher1.png",
+      "id": 5
+    },
+    {
+      "fullName": "Judah Palmer",
+      "addressDetails": {
+        "address": "388 First Street",
+        "city": "Firozabad",
+        "stateName": "Haryana",
+        "pincode": "890908"
+      },
+      "phone": "+91 5127667241",
+      "doj": "2023-9-13",
+      "dob": "1997-12-10",
+      "email": "tukizogoz@mailinator.com",
+      "qualification": "MMet",
+      "coreSubject": "Business Studies",
+      "teachingSubjects": [
+        "Tamil",
+        "English",
+        "Maths"
+      ],
+      "salary": "5672",
+      "isClassTeacher": true,
+      "assignedClass": 9,
+      "isOnline": false,
+      "TeacherAddTimeStamp": 1702559708535,
+      "TeacherImage": "/src/assets/images/teacher1.png",
+      "currentClass": 8,
+      "id": 6
+    },
+    {
+      "fullName": "Ina Sargent",
+      "addressDetails": {
+        "address": "41 First Avenue",
+        "city": "Bhimavaram",
+        "stateName": "Punjab",
+        "pincode": "495051"
+      },
+      "phone": "+91 5416249572",
+      "doj": "2022-12-15",
+      "dob": "1997-12-17",
+      "email": "boraxu@mailinator.com",
+      "qualification": "DM",
+      "coreSubject": "Chemistry",
+      "teachingSubjects": [
+        "Tamil",
+        "English",
+        "Maths"
+      ],
+      "salary": "15450",
+      "isClassTeacher": true,
+      "assignedClass": null,
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702556751273,
+      "TeacherImage": "/src/assets/images/teacher5.png",
+      "currentClass": 9,
+      "id": 7
+    },
+    {
+      "fullName": "Eleanor Montgomery",
+      "addressDetails": {
+        "address": "246 Rocky Nobel Road",
+        "city": "Darbhanga",
+        "stateName": "Himachal Pradesh",
+        "pincode": "749097"
+      },
+      "phone": "+91 8677965357",
+      "doj": "2023-12-10",
+      "dob": "1993-12-31",
+      "email": "syxy@mailinator.com",
+      "qualification": "MNutr",
+      "coreSubject": "biology",
+      "teachingSubjects": [
+        "Computer Science",
+        "Physics"
+      ],
+      "salary": "15532",
+      "isClassTeacher": true,
+      "assignedClass": 10,
+      "isOnline": false,
+      "TeacherAddTimeStamp": 1702556991931,
+      "TeacherImage": "/src/assets/images/teacher7.png",
+      "id": 8
+    },
+    {
+      "fullName": "Kylee Benson",
+      "addressDetails": {
+        "address": "49 North Rocky Hague Extension",
+        "city": "Kulti",
+        "stateName": "Uttarakhand",
+        "pincode": "123916"
+      },
+      "phone": "+91 1744633409",
+      "doj": "2023-12-1",
+      "dob": "1998-12-15",
+      "email": "wogyzapih@mailinator.com",
+      "qualification": "MPhys",
+      "coreSubject": "Botany",
+      "teachingSubjects": [
+        "Tamil",
+        "Maths"
+      ],
+      "salary": "13171",
+      "isClassTeacher": true,
+      "assignedClass": 1,
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702558359532,
+      "TeacherImage": "/src/assets/images/teacher3.png",
+      "id": 9
+    },
+    {
+      "fullName": "Colton Berg",
+      "addressDetails": {
+        "address": "667 West Nobel Parkway",
+        "city": "Tirunelveli",
+        "stateName": "Tripura",
+        "pincode": "221325"
+      },
+      "phone": "+91 4666155418",
+      "doj": "2023-12-5",
+      "dob": "1985-12-18",
+      "email": "nahufypeji@mailinator.com",
+      "qualification": "MPC",
+      "coreSubject": "Maths",
+      "teachingSubjects": [
+        "Economics",
+        "Business Studies",
+        "Accountancy"
+      ],
+      "salary": "10955",
+      "isClassTeacher": true,
+      "assignedClass": 11,
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702561525357,
+      "TeacherImage": "/src/assets/images/teacher3.png",
+      "id": 10
+    },
+    {
+      "fullName": "Xyla Cannon",
+      "addressDetails": {
+        "address": "32 Oak Parkway",
+        "city": "Kalyan-Dombivali",
+        "stateName": "Arunachal Pradesh",
+        "pincode": "805874"
+      },
+      "phone": "+91 1854493456",
+      "doj": "2023-12-4",
+      "dob": "1985-12-20",
+      "email": "cotohane@mailinator.com",
+      "qualification": "BASc",
+      "coreSubject": "Science",
+      "teachingSubjects": [
+        "Tamil",
+        "English",
+        "Science"
+      ],
+      "salary": "16942",
+      "isClassTeacher": true,
+      "assignedClass": 9,
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702561951783,
+      "TeacherImage": "/src/assets/images/teacher3.png",
+      "id": 11
+    },
+    {
+      "fullName": "Audrey Everett",
+      "addressDetails": {
+        "address": "26 East White Clarendon Lane",
+        "city": "Morvi",
+        "stateName": "Chhattisgarh",
+        "pincode": "952685"
+      },
+      "phone": "+91 8168321409",
+      "doj": "2023-12-13",
+      "dob": "1998-12-31",
+      "email": "rujobice@mailinator.com",
+      "qualification": "DDS",
+      "coreSubject": "Botany",
+      "teachingSubjects": [
+        "English",
+        "Science",
+        "Computer Science"
+      ],
+      "salary": "12848",
+      "isClassTeacher": false,
+      "assignedClass": "",
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702576777886,
+      "TeacherImage": "/src/assets/images/teacher5.png",
+      "id": 12
+    },
+    {
+      "fullName": "Tamara Clarke",
+      "addressDetails": {
+        "address": "403 East Rocky Cowley Boulevard",
+        "city": "Sikar",
+        "stateName": "Tripura",
+        "pincode": "269942"
+      },
+      "phone": "+91 7203166385",
+      "doj": "2009-12-14",
+      "dob": "1994-12-14",
+      "email": "lonebev@mailinator.com",
+      "qualification": "DChiro",
+      "coreSubject": "Zoology",
+      "teachingSubjects": [
+        "Tamil",
+        "English",
+        "Maths"
+      ],
+      "salary": "13607",
+      "isClassTeacher": false,
+      "assignedClass": "",
+      "isOnline": false,
+      "TeacherAddTimeStamp": 1702602533517,
+      "TeacherImage": "/src/assets/images/teacher7.png",
+      "id": 13
+    },
+    {
+      "fullName": "Lionel Donaldson",
+      "addressDetails": {
+        "address": "685 North New Freeway",
+        "city": "Alappuzha",
+        "stateName": "Manipur",
+        "pincode": "399147"
+      },
+      "phone": "+91 9237834846",
+      "doj": "2023-12-13",
+      "dob": "1998-12-16",
+      "email": "covulad@mailinator.com",
+      "qualification": "MPlan",
+      "coreSubject": "Accountancy",
+      "teachingSubjects": [
+        "Science",
+        "Computer Science",
+        "Economics"
+      ],
+      "salary": "13449",
+      "isClassTeacher": true,
+      "assignedClass": 6,
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702602612284,
+      "TeacherImage": "/src/assets/images/teacher6.png",
+      "id": 14
+    },
+    {
+      "fullName": "Denise Kaufman",
+      "addressDetails": {
+        "address": "98 New Avenue",
+        "city": "Panihati",
+        "stateName": "Punjab",
+        "pincode": "366438"
+      },
+      "phone": "+91 8245424033",
+      "doj": "2023-12-14",
+      "dob": "1994-12-6",
+      "email": "vifyto@mailinator.com",
+      "qualification": "JD",
+      "coreSubject": "Chemistry",
+      "teachingSubjects": [
+        "Science"
+      ],
+      "salary": "7366",
+      "isClassTeacher": false,
+      "assignedClass": "",
+      "isOnline": true,
+      "TeacherAddTimeStamp": 1702602653975,
+      "TeacherImage": "/src/assets/images/teacher5.png",
+      "id": 15
+    }
+  ],
   "studentsDetails": [
     {
       "fullName": "Jessamine Stone",
@@ -9,14 +414,376 @@
         "pincode": "468192"
       },
       "parentPhone": "+91 7925726175",
-      "doa": "2023/12/10",
-      "dob": "2015/12/10",
+      "doa": "2023/12/12",
+      "dob": "2015-12-17",
       "parentEmail": "xojevube@mailinator.com",
       "parentName": "Stone Haynes",
+      "currentClass": 9,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702380430565,
+      "id": 1,
+      "studentImage": "/src/assets/images/student_2.png"
+    },
+    {
+      "fullName": "Hilda",
+      "addressDetails": {
+        "address": "56 Cowley Road",
+        "city": "Panvel",
+        "stateName": "Karnataka",
+        "pincode": "314097"
+      },
+      "parentPhone": "+91 2906448724",
+      "doa": "2023/12/11",
+      "dob": "2005/12/19",
+      "parentEmail": "qolel@mailinator.com",
+      "parentName": "Jescie Franco",
+      "currentClass": 12,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702313252154,
+      "id": 2,
+      "studentImage": "/src/assets/images/student_2.png"
+    },
+    {
+      "fullName": "Bevis Cunningham",
+      "addressDetails": {
+        "address": "26 West White Fabien Lane",
+        "city": "Nandyal",
+        "stateName": "Jharkhand",
+        "pincode": "828497"
+      },
+      "parentPhone": "+91 8813320999",
+      "doa": "2023/12/11",
+      "dob": "2023-12-11",
+      "parentEmail": "bumydojyt@mailinator.com",
+      "parentName": "Dustin",
+      "currentClass": 10,
+      "isOnline": false,
+      "StudentAddTimeStamp": 1702313478502,
+      "id": 3,
+      "studentImage": "/src/assets/images/student_3.png"
+    },
+    {
+      "fullName": "Christine Noel",
+      "addressDetails": {
+        "address": "64 South Green Clarendon Lane",
+        "city": "Sambhal",
+        "stateName": "Tamil Nadu",
+        "pincode": "449091"
+      },
+      "parentPhone": "+91 1757347053",
+      "doa": "2023/12/13",
+      "dob": "2008/7/8",
+      "parentEmail": "lodadoq@mailinator.com",
+      "parentName": "Belle",
+      "currentClass": 11,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702463541110,
+      "id": 4,
+      "studentImage": "/src/assets/images/student_6.png"
+    },
+    {
+      "fullName": "Hamilton Cain",
+      "addressDetails": {
+        "address": "543 South Hague Freeway",
+        "city": "Junagadh",
+        "stateName": "Meghalaya",
+        "pincode": "373482"
+      },
+      "parentPhone": "+91 6908084263",
+      "doa": "2023/12/13",
+      "dob": "2013-12-10",
+      "parentEmail": "duni@mailinator.com",
+      "parentName": "Tyrone ",
+      "currentClass": 2,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702463605873,
+      "studentImage": "/src/assets/images/student_2.png",
+      "id": 5
+    },
+    {
+      "fullName": "Rose Garcia",
+      "addressDetails": {
+        "address": "621 Clarendon Extension",
+        "city": "Maheshtala",
+        "stateName": "Meghalaya",
+        "pincode": "826097"
+      },
+      "parentPhone": "+91 2874220817",
+      "doa": "2023/12/13",
+      "dob": "2023-12-4",
+      "parentEmail": "nitu@mailinator.com",
+      "parentName": "Camden Adams",
+      "currentClass": 2,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702456151457,
+      "studentImage": "/src/assets/images/student_1.png",
+      "id": 6
+    },
+    {
+      "fullName": "Jana Brady",
+      "addressDetails": {
+        "address": "255 Green Nobel Drive",
+        "city": "Kakinada",
+        "stateName": "Karnataka",
+        "pincode": "289467"
+      },
+      "parentPhone": "+91 6522464419",
+      "doa": "2023/12/13",
+      "dob": "2017-12-13",
+      "parentEmail": "fofimuj@mailinator.com",
+      "parentName": "Irma ",
+      "currentClass": 1,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702456189941,
+      "studentImage": "/src/assets/images/student_5.png",
+      "id": 7
+    },
+    {
+      "fullName": "Knox",
+      "addressDetails": {
+        "address": "585 East Hague Parkway",
+        "city": "New Delhi",
+        "stateName": "Karnataka",
+        "pincode": "796721"
+      },
+      "parentPhone": "+91 9559977787",
+      "doa": "2023/12/13",
+      "dob": "2005-12-14",
+      "parentEmail": "netusid@mailinator.com",
+      "parentName": "Kelsie Nolan",
+      "currentClass": 5,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702463660336,
+      "studentImage": "/src/assets/images/student_3.png",
+      "id": 8
+    },
+    {
+      "fullName": "Fatima Chavez",
+      "addressDetails": {
+        "address": "409 Hague Lane",
+        "city": "Panipat",
+        "stateName": "Maharashtra",
+        "pincode": "259883"
+      },
+      "parentPhone": "+91 7480981658",
+      "doa": "2023/12/13",
+      "dob": "2013-12-9",
+      "parentEmail": "qunufyboro@mailinator.com",
+      "parentName": "Nyssa Mathews",
+      "currentClass": 6,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702456301115,
+      "studentImage": "/src/assets/images/student_7.png",
+      "id": 9
+    },
+    {
+      "fullName": "Acton Wong",
+      "addressDetails": {
+        "address": "162 Second Extension",
+        "city": "Maheshtala",
+        "stateName": "Assam",
+        "pincode": "693169"
+      },
+      "parentPhone": "+91 8248945505",
+      "doa": "2023/12/15",
+      "dob": "2009-12-16",
+      "parentEmail": "ribafubolu@mailinator.com",
+      "parentName": "Ifeoma Pickett",
+      "currentClass": 7,
+      "isOnline": false,
+      "StudentAddTimeStamp": 1702602323684,
+      "studentImage": "/src/assets/images/student_7.png",
+      "id": 10
+    },
+    {
+      "fullName": "Fritz Hodge",
+      "addressDetails": {
+        "address": "52 North Rocky Milton Boulevard",
+        "city": "Dhule",
+        "stateName": "Arunachal Pradesh",
+        "pincode": "714056"
+      },
+      "parentPhone": "+91 3163254628",
+      "doa": "2023/12/15",
+      "dob": "2009-12-10",
+      "parentEmail": "gata@mailinator.com",
+      "parentName": "Fay Buckner",
+      "currentClass": 11,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702602348558,
+      "studentImage": "/src/assets/images/student_2.png",
+      "id": 11
+    },
+    {
+      "fullName": "Sybil Fisher",
+      "addressDetails": {
+        "address": "311 South White New Parkway",
+        "city": "Rourkela",
+        "stateName": "Madhya Pradesh",
+        "pincode": "154554"
+      },
+      "parentPhone": "+91 7420883538",
+      "doa": "2023/12/15",
+      "dob": "2006-12-14",
+      "parentEmail": "mebeli@mailinator.com",
+      "parentName": "Colleen Velazquez",
+      "currentClass": 9,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702602364234,
+      "studentImage": "/src/assets/images/student_2.png",
+      "id": 12
+    },
+    {
+      "fullName": "Zelda Walsh",
+      "addressDetails": {
+        "address": "360 South Old Street",
+        "city": "Ambattur",
+        "stateName": "West Bengal",
+        "pincode": "427218"
+      },
+      "parentPhone": "+91 9326284597",
+      "doa": "2023/12/15",
+      "dob": "2004-12-13",
+      "parentEmail": "posoq@mailinator.com",
+      "parentName": "Stuart Gonzalez",
+      "currentClass": 7,
+      "isOnline": false,
+      "StudentAddTimeStamp": 1702602473015,
+      "studentImage": "/src/assets/images/student_3.png",
+      "id": 13
+    },
+    {
+      "fullName": "Nathan Nash",
+      "addressDetails": {
+        "address": "28 East Nobel Extension",
+        "city": "Asansol",
+        "stateName": "Madhya Pradesh",
+        "pincode": "359493"
+      },
+      "parentPhone": "+91 1964473046",
+      "doa": "2023/12/15",
+      "dob": "2002-12-16",
+      "parentEmail": "vegyfypad@mailinator.com",
+      "parentName": "Mikayla Mckee",
+      "currentClass": 7,
+      "isOnline": false,
+      "StudentAddTimeStamp": 1702602488298,
+      "studentImage": "/src/assets/images/student_3.png",
+      "id": 14
+    },
+    {
+      "fullName": "Emi Cabrera",
+      "addressDetails": {
+        "address": "12 Clarendon Street",
+        "city": "Vadodara",
+        "stateName": "Nagaland",
+        "pincode": "706765"
+      },
+      "parentPhone": "+91 5389942414",
+      "doa": "2023/12/15",
+      "dob": "2023-12-13",
+      "parentEmail": "cyqoj@mailinator.com",
+      "parentName": "Barclay Schmidt",
+      "currentClass": 8,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702602502792,
+      "studentImage": "/src/assets/images/student_6.png",
+      "id": 15
+    },
+    {
+      "fullName": "Ebony Diaz",
+      "addressDetails": {
+        "address": "643 Fabien Drive",
+        "city": "Kurnool",
+        "stateName": "Sikkim",
+        "pincode": "420995"
+      },
+      "parentPhone": "+91 8361484135",
+      "doa": "2023/12/15",
+      "dob": "2013-12-15",
+      "parentEmail": "valab@mailinator.com",
+      "parentName": "Cain Armstrong",
       "currentClass": 3,
       "isOnline": true,
-      "StudentAddTimeStamp": 1702229569380,
-      "id": 1
+      "StudentAddTimeStamp": 1702602517527,
+      "studentImage": "/src/assets/images/student_5.png",
+      "id": 16
+    },
+    {
+      "fullName": "Baxter Shepard",
+      "addressDetails": {
+        "address": "255 West Second Road",
+        "city": "Bhagalpur",
+        "stateName": "Gujarat",
+        "pincode": "269026"
+      },
+      "parentPhone": "+91 7281143758",
+      "doa": "2023/12/15",
+      "dob": "2002-12-19",
+      "parentEmail": "wodimize@mailinator.com",
+      "parentName": "Zena Adkins",
+      "currentClass": 9,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702621894497,
+      "studentImage": "/src/assets/images/student_4.png",
+      "id": 17
+    },
+    {
+      "fullName": "Warren Rosario",
+      "addressDetails": {
+        "address": "538 Nobel Parkway",
+        "city": "Bokaro",
+        "stateName": "Chhattisgarh",
+        "pincode": "190248"
+      },
+      "parentPhone": "+91 8957972886",
+      "doa": "2023/12/15",
+      "dob": "2001-12-13",
+      "parentEmail": "zoty@mailinator.com",
+      "parentName": "Gretchen Valentine",
+      "currentClass": 8,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702624887063,
+      "studentImage": "/src/assets/images/student_3.png",
+      "id": 18
+    },
+    {
+      "fullName": "Alvin Rodriquez",
+      "addressDetails": {
+        "address": "85 West Hague Drive",
+        "city": "Khora",
+        "stateName": "Tripura",
+        "pincode": "794432"
+      },
+      "parentPhone": "+91 5963854239",
+      "doa": "2023/12/15",
+      "dob": "1998-12-23",
+      "parentEmail": "fehe@mailinator.com",
+      "parentName": "Nolan Frost",
+      "currentClass": 6,
+      "isOnline": false,
+      "StudentAddTimeStamp": 1702638273665,
+      "studentImage": "/src/assets/images/student_3.png",
+      "id": 19
+    },
+    {
+      "fullName": "Kennedy Bridges",
+      "addressDetails": {
+        "address": "97 South Second Freeway",
+        "city": "South Dumdum",
+        "stateName": "Maharashtra",
+        "pincode": "490396"
+      },
+      "parentPhone": "+91 7189425925",
+      "doa": "2023/12/15",
+      "dob": "2017-12-13",
+      "parentEmail": "hazuhogan@mailinator.com",
+      "parentName": "Shoshana Gill",
+      "currentClass": 4,
+      "isOnline": true,
+      "StudentAddTimeStamp": 1702638473282,
+      "studentImage": "/src/assets/images/student_5.png",
+      "id": 20
     }
   ]
 }
